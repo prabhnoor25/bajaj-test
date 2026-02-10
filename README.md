@@ -164,6 +164,3 @@ Each request must contain **exactly one key** from the following:
   "data": "Mumbai"
 }
 ```
-* 🐳 Add **Docker support**
-
-Just tell me what you want next 🚀
